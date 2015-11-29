@@ -1,4 +1,4 @@
-# jetty-jersey-example
+# webapp-gradle-jetty-example
 Demonstration on how to develop a simple Java Web application using Gradle and its Jetty plugin.
 
 - Just run "gradlew jettyRun" from the root folder and the application will compile and run.
